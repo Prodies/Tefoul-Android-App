@@ -1,6 +1,13 @@
 # Tefoul-Android-App
 Official android App of Tefoul Inc.
 
+## Latest Release.
+Stable release 1.0 is comming soon...
+
+## Contributing
+We are always welcome to contributions, suggestions and problem solving. Just remember to follow the guidelines.
+
+## License 
 ```
 Copyright 2022, Aditya Bavadekar.
 
