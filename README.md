@@ -1,6 +1,8 @@
 # Tefoul-Android-App
 Official android App of Tefoul Inc.
 
+## Status : In Progress 
+
 ## Latest Release.
 Stable release 1.0 is comming soon...
 
